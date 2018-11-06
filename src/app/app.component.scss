@@ -1,5 +1,19 @@
+:host{
+  width: 100%;
+  >div{
+    h1{
+      text-align: center;
+    }
+  }
+}
 .wrapper{
-  width: 50%;
   display: flex;
   justify-content: space-evenly;
 }
+
+.wrapper-1{
+  display: flex;
+  justify-content: center;
+}
+
+
